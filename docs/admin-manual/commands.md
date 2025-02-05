@@ -8,16 +8,24 @@ sidebar_position: 2
 
 #### List Users
 
-php artisan filesplus:list-users
+`php artisan user:list`
 
 #### Create a User
 
-php artisan filesplus:create-user
+`php artisan user:create`
 
 #### Change Password
 
-php artisan filesplus:change-password
+`php artisan user:change-password`
 
 #### Delete a User
 
-php artisan filesplus:delete-user
+`php artisan user:delete`
+
+### Maintenance Mode
+
+`php artisan down`
+
+### Disable Maintenance Mode
+
+`php artisan up`
