@@ -76,8 +76,8 @@ const config = {
       navbar: {
         title: 'Filesplus',
         /*logo: {
-          alt: 'Filesplus Logo',
-          src: 'img/logo.svg',
+            alt: 'Filesplus Logo',
+            src: 'img/logo.png',
         },*/
         items: [
           {
